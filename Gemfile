@@ -81,6 +81,9 @@ gem 'sass'
 gem 'sidekiq'
 gem 'sidekiq-statistic'
 
+# Config
+gem 'dotenv-rails'
+
 # for sidekiq web
 gem 'sinatra', require: false
 
